@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🎓 Experience  
+## 👩🏻‍💻 Experience  
 | Organization | Period | Role & Description |
 | --------------------- | ----------------- | --------------------------------- |
 | **Sookmyung&nbsp;Women's&nbsp;University** | 2021.03 ~ ing | Major in IT Engineering |
