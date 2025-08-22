@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🎓 Experience  
 | Organization | Period | Role & Description |
 | --------------------- | ----------------- | --------------------------------- |
-| **Sookmyung Women's University** | 2021.03 ~ ing | Major in IT Engineering |
+| **Sookmyung&nbsp;Women's&nbsp;University** | 2021.03 ~ ing | Major in IT Engineering |
 | **Solux** | 2023.03&nbsp;~&nbsp;2024.02 | Sookmyung Developers Club |
 | **IT’s TIME** | 2024.03&nbsp;~&nbsp;2024.07 | 대학생 연합 IT동아리 잇타, 5th member |
 | **GDG on Campus Sookmyung** | 2024.09&nbsp;~&nbsp;2025.06 | Google Developer Groups on Campus - Sookmyung Women's University, 5th member |
