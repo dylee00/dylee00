@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats  
-![dylee00's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dylee00&show_icons=true&theme=tokyonight)  
+![dylee00's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylee00&show_icons=true&theme=buefy&hide=stars,contribs&rank_icon=github)
 
 ## 🔥 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylee00&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylee00&layout=compact&theme=donut)
