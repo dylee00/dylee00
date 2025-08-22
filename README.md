@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 | **Solux** | 2023.03&nbsp;~&nbsp;2024.02 | Sookmyung Developers Club, 28th member |
 | **IT’s TIME** | 2024.03&nbsp;~&nbsp;2024.07 | 대학생 연합 IT동아리 잇타, 5th member |
 | **GDG on Campus Sookmyung** | 2024.09&nbsp;~&nbsp;2025.06 | Google Developer Groups on Campus - Sookmyung Women's University, 5th member |
-| **AWS Cloud Club** | 2025.03 ~ ing | AWS Official University Community, 3rd member |
+| **SMWU AWS Cloud Club** | 2025.03 ~ ing | AWS Official University Community, 3rd member |
 | **AUSG** | 2025.08 ~ ing | AWSKRUG University Student Group, 9th member |
 
 ---
